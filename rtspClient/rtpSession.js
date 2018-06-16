@@ -47,7 +47,7 @@ function rtpSession() {
         },
         close: function () {
 
-        },
+        }
     };
     return new Constructor();
 }
