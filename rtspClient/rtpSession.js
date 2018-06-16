@@ -9,7 +9,6 @@ function rtpSession() {
     var frameRate = 0;
     
     function Constructor() {
-        this.decoder = null;
         this.rtpTimestampCbFunc = null;
         this.timeData = null;
     }
